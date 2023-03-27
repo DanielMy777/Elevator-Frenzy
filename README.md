@@ -29,6 +29,7 @@ This elevator system simulator was developed using Javascript under the React.js
 ## 📖 Manual!
 * At First, you will be presented with a form, enter the number of floors / elevators you want your system to integrate with.
 * To call an elevator to your floor, press the 'Call' button near your floor. Your button text will switch to 'Waiting'.
+* The system will assign the elevator that will take the shortest amount of time to reach your floor.
 * When an elevator arrives at your floor, Your button text will switch to 'Arrived' and then switch back to 'Call' if you want to call again.
 * When an elevator is on the move, it will turn red. each floor is ~1.2 seconds of travel time.
 * When an elevator arrives at a floor, it will turn green and will stay that way for 2 seconds, after that the elevator will again become available.
