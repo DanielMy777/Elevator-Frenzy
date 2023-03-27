@@ -1,0 +1,18 @@
+.elevator-img {
+    position: absolute;
+    left: 25%;
+    width: 50%;
+    
+}
+
+.available {
+    color: greenyellow;
+}
+
+.running {
+    filter: invert(11%) sepia(83%) saturate(7073%) hue-rotate(2deg) brightness(105%) contrast(114%);
+}
+
+.arrived {
+    filter: invert(74%) sepia(32%) saturate(751%) hue-rotate(85deg) brightness(88%) contrast(85%);
+}

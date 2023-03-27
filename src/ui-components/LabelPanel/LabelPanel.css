@@ -1,0 +1,8 @@
+.lbl-panel {
+    position: relative;
+    display: grid;
+    grid-auto-flow: row dense;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+}

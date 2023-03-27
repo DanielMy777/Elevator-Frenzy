@@ -1,0 +1,11 @@
+.floor-text {
+    color: #000000;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+    position: relative;
+    text-decoration: none;
+    right: 20%;
+    margin-left: auto;
+    margin-right: 0;
+}

@@ -1,0 +1,50 @@
+.call-button {
+    appearance: none;
+    background-color: #63c57f;
+    border: 1px solid rgba(27, 35, 28, 0.15);
+    border-radius: 6px;
+    box-shadow: rgba(27, 31, 35, .1) 0 1px 0;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-family: -apple-system, system-ui, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+    padding: 6px 16px;    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+    white-space: nowrap;
+    height: 35px;
+    width: 80px;
+}
+
+.call-call:hover {
+    background-color: #47ad66;
+}
+
+.call-call:active {
+    background-color: #418654;
+    box-shadow: rgba(20, 70, 32, .2) 0 1px 0 inset;
+}
+
+.call-waiting {
+    background-color: #e03333;
+    cursor: default;
+}
+
+.call-arrived {
+    background-color: #e0333300;
+    color: #63c57f;
+    box-shadow: none;
+    border: 1px solid rgb(59, 204, 78);
+    cursor: default;
+}
+
+.call-waiting:hover .call-waiting:active .call-arrived:hover .call-arrived:active{
+    background-color: #e03333;
+}
