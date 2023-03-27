@@ -36,6 +36,9 @@ This elevator system simulator was developed using Javascript under the React.js
 * When calling a floor, a timer presenting the remainig waiting time will be presented in the relevant elevator shaft.
 * You can call multipile floors at once, just do be surprised if you wait a long time ;).
 
+## 📷 Screenshots
+![image](https://user-images.githubusercontent.com/79100490/227968342-916746b1-280c-46e7-a205-b8afb8363da2.png)
+
 
 ## ⭐️ Contributors
 
