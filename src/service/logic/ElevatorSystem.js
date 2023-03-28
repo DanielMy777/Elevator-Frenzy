@@ -2,7 +2,6 @@ import Elevator from '../models/Elevator';
 import Button from '../models/Button';
 import Cell from '../models/Cell';
 import Request from '../models/Request';
-import { Mutex, MutexInterface } from 'async-mutex';
 import { CallStatus } from '../models/Enums';
 
 class ElevatorSystem {
