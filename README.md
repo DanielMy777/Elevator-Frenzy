@@ -4,7 +4,7 @@ This elevator system simulator was developed using Javascript under the React.js
 
 ## ⚡️ Quick Start
 
-> To start the app using docker-compose (coming soon...)
+> To start the app using docker-compose
 
 1. Clone the repository (Or download the files).
 2. In the terminnal, reach the root directory of this project. 
@@ -19,7 +19,7 @@ This elevator system simulator was developed using Javascript under the React.js
 ## 👨‍💻 Technical Features
 * Parallelism. (multipile batches of code excecuting simultaneously)
 * User friendly GUI.
-* Containerization. (coming soon...) (Currently pulling the image from docker hub but you can use the dockerfile as well)
+* Containerization.
 
 ## 😁 Behavioural Features
 * Queueing requests.
