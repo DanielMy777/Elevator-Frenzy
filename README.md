@@ -13,8 +13,9 @@ This elevator system simulator was developed using Javascript under the React.js
 > To start the app with node
 
 1. Clone the repository (Or download the files).
-2. In the terminal, reach the `src` folder.
-3. Run `npm start` and open your browser on `localhost:3000`.
+2. In the terminal, reach the root folder.
+3. Run `npm install`.
+4. Run `npm start` and open your browser on `localhost:3000`.
 
 ## 👨‍💻 Technical Features
 * Parallelism. (multipile batches of code excecuting simultaneously)
